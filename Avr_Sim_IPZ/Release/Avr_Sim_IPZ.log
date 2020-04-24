@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\utility.h(55): warning C4068: unknown pragma
+  utility.c
+c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\utility.h(55): warning C4068: unknown pragma
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Avr_Sim_IPZ.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Avr_Sim_IPZ\Release\Avr_Sim_IPZ.exe
+  Avr_Sim_IPZ.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Avr_Sim_IPZ\Release\Avr_Sim_IPZ.pdb (Full PDB)
