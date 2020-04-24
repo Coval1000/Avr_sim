@@ -1,7 +1,0 @@
-﻿  Source.c
-c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\source.c(41): warning C4305: '=': truncation from 'int' to 'byte'
-c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\source.c(106): warning C4305: '=': truncation from 'int' to 'byte'
-c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\source.c(116): warning C4305: '=': truncation from 'int' to 'byte'
-c:\users\user\documents\visual studio 2015\projects\avr_sim_ipz\avr_sim_ipz\source.c(120): warning C4305: '=': truncation from 'int' to 'byte'
-  Avr_Sim_IPZ.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Avr_Sim_IPZ\Debug\Avr_Sim_IPZ.exe
-  Avr_Sim_IPZ.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Avr_Sim_IPZ\Debug\Avr_Sim_IPZ.pdb (Full PDB)
