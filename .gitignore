@@ -38,6 +38,9 @@ CMakeFiles
 CMakeCache.txt
 vkdemo
 VkEngine
+Debug
+Release
+x64
 .vscode
 .vs
 .db
